@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link href="style.css" type="text/css" rel="stylesheet">
+    <title>Positioning</title>
+
+</head>
+
+<body>
+    <div class="fixed"> &#60;div&#62;<br>position: fixed</div>
+    <div class="main">
+        <div class="first">
+            <heading>
+                <h1>Heading</h1>
+            </heading>
+            <p class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit explicabo possimus sint, accusamus necessitatibus ut error quo corrupti eveniet, voluptates voluptatum nesciunt suscipit ratione molestias architecto dignissimos iusto saepe voluptatem.
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore omnis itaque, error nulla officia ut illo eos maiores, non atque odio hic facere dolorem. Inventore itaque qui recusandae commodi neque?</p>
+
+        </div>
+        <div class="relative">&#60;div&#62;<br>position: relative
+            <div class="absolute">&#60;div&#62;<br>position: absolute</div>
+        </div>
+        <div>
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestiae non consequatur porro quaerat error minima ratione officia vitae ut in distinctio, atque eveniet tenetur, qui vel dolore minus sunt. Inventore? Lorem ipsum, dolor sit amet consectetur
+            adipisicing elit. Dolore esse, nihil, cumque iusto corporis veritatis ea aspernatur possimus nostrum tenetur, incidunt obcaecati recusandae ipsum pariatur magnam blanditiis. Blanditiis, reiciendis est.
+        </div>
+
+    </div>
+</body>
+
+
+</html>
