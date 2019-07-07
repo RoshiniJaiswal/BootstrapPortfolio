@@ -33,15 +33,29 @@ p {
     float: right;
 }
 
-.about,
 .pic {
     float: left;
+    padding-right: 2rem;
 }
 
-.b,
+.b {
+    padding-top: 4rem;
+    align-content: center;
+    text-align: center;
+    padding-right: 6rem;
+}
+
 #oy,
 #car {
-    padding-top: 13rem;
+    padding-top: 18rem;
+}
+
+.in {
+    align-content: center;
+    text-align: center;
+    justify-content: center;
+    font-size: 4rem;
+    padding-top: 5rem;
 }
 
 #tex,
