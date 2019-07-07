@@ -1,3 +1,10 @@
+html,
+body {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url('https://images.pexels.com/photos/2575280/pexels-photo-2575280.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500');
+}
+
 h1 {
     background-color: black;
     color: white;
@@ -15,4 +22,29 @@ img {
 p {
     margin-left: 200px;
     display: inline-block;
+}
+
+.butt {
+    text-align: center;
+    padding-top: 2rem;
+}
+
+.nav {
+    float: right;
+}
+
+.about,
+.pic {
+    float: left;
+}
+
+.b,
+#oy,
+#car {
+    padding-top: 13rem;
+}
+
+#tex,
+#proj {
+    padding-top: 2rem;
 }
